@@ -1,3 +1,3 @@
-module github.com/tidbyt/go-libwebp
+module github.com/gosuimg/gosu-libwebp
 
-go 1.16
+go 1.20

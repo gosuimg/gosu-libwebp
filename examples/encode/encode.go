@@ -5,8 +5,8 @@ import (
 	"bufio"
 	"image"
 
-	"github.com/tidbyt/go-libwebp/test/util"
-	"github.com/tidbyt/go-libwebp/webp"
+	"github.com/gosuimg/gosu-libwebp/test/util"
+	"github.com/gosuimg/gosu-libwebp/webp"
 )
 
 func main() {

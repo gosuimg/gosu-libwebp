@@ -1,11 +1,9 @@
-go-libwebp
+gosu-libwebp
 ==========
-
-[![GoDoc](https://godoc.org/github.com/tidbyt/go-libwebp/webp?status.svg)](https://godoc.org/github.com/tidbyt/go-libwebp/webp)
 
 A implementation of Go binding for [libwebp](https://developers.google.com/speed/webp/docs/api).
 
-Originally forked from [harukasan/go-libwebp](https://github.com/harukasan/go-libwebp).
+Forked from [tidbyt/go-libwebp](https://github.com/harukasan/go-libwebp).
 
 ## Dependencies
 
@@ -21,8 +19,8 @@ The [examples](./examples) directory contains example codes and images.
 package main
 
 import (
-	"github.com/tidbyt/go-libwebp/test/util"
-	"github.com/tidbyt/go-libwebp/webp"
+	"github.com/gosuimg/gosu-libwebp/test/util"
+	"github.com/gosuimg/gosu-libwebp/webp"
 )
 
 func main() {
@@ -53,8 +51,8 @@ import (
 	"bufio"
 	"image"
 
-	"github.com/tidbyt/go-libwebp/test/util"
-	"github.com/tidbyt/go-libwebp/webp"
+	"github.com/gosuimg/gosu-libwebp/test/util"
+	"github.com/gosuimg/gosu-libwebp/webp"
 )
 
 func main() {
@@ -87,8 +85,8 @@ import (
 	"image"
 	"time"
 
-	"github.com/tidbyt/go-libwebp/test/util"
-	"github.com/tidbyt/go-libwebp/webp"
+	"github.com/gosuimg/gosu-libwebp/test/util"
+	"github.com/gosuimg/gosu-libwebp/webp"
 )
 
 func main() {
@@ -139,7 +137,7 @@ func main() {
 
 ## License
 
-Copyright (c) 2016 MICHII Shunsuke. All rights reserved.
+Copyright (c) 2023 GosuImg. All rights reserved.
 
 This library is released under The BSD 2-Clause License.
 See [LICENSE](./LICENSE).
