@@ -1,4 +1,4 @@
-repo = github.com/gosuimg/gosu-libwebp
+repo = github.com/talgo-cloud/talgo-libwebp
 build_dir = /tmp
 cur_dir = $(shell pwd)
 libwebp_so = ${LIBWEBP_PREFIX}/lib/libwebp.so

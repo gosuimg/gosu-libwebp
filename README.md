@@ -1,9 +1,9 @@
-gosu-libwebp
+talgo-libwebp
 ==========
 
 A implementation of Go binding for [libwebp](https://developers.google.com/speed/webp/docs/api).
 
-Forked from [tidbyt/go-libwebp](https://github.com/harukasan/go-libwebp).
+Forked from [tidbyt/go-libwebp](https://github.com/tidbyt/go-libwebp).
 
 ## Dependencies
 
@@ -19,8 +19,8 @@ The [examples](./examples) directory contains example codes and images.
 package main
 
 import (
-	"github.com/gosuimg/gosu-libwebp/test/util"
-	"github.com/gosuimg/gosu-libwebp/webp"
+	"github.com/talgo-cloud/talgo-libwebp/test/util"
+	"github.com/talgo-cloud/talgo-libwebp/webp"
 )
 
 func main() {
@@ -51,8 +51,8 @@ import (
 	"bufio"
 	"image"
 
-	"github.com/gosuimg/gosu-libwebp/test/util"
-	"github.com/gosuimg/gosu-libwebp/webp"
+	"github.com/talgo-cloud/talgo-libwebp/test/util"
+	"github.com/talgo-cloud/talgo-libwebp/webp"
 )
 
 func main() {
@@ -85,8 +85,8 @@ import (
 	"image"
 	"time"
 
-	"github.com/gosuimg/gosu-libwebp/test/util"
-	"github.com/gosuimg/gosu-libwebp/webp"
+	"github.com/talgo-cloud/talgo-libwebp/test/util"
+	"github.com/talgo-cloud/talgo-libwebp/webp"
 )
 
 func main() {
@@ -137,7 +137,7 @@ func main() {
 
 ## License
 
-Copyright (c) 2023 GosuImg. All rights reserved.
+Copyright (c) 2023 Talgo. All rights reserved.
 
 This library is released under The BSD 2-Clause License.
 See [LICENSE](./LICENSE).

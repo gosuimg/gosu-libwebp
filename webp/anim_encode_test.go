@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gosuimg/gosu-libwebp/test/util"
-	"github.com/gosuimg/gosu-libwebp/webp"
+	"github.com/talgo-cloud/talgo-libwebp/test/util"
+	"github.com/talgo-cloud/talgo-libwebp/webp"
 )
 
 func TestEncodeAnimation(t *testing.T) {
